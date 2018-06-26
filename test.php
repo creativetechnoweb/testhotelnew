@@ -1,1 +1,4 @@
-<? echo "test git";?>
+<? echo "test git";
+
+echo "test open in same";
+?>
