@@ -1,1 +1,3 @@
-<? echo "test git";?>
+<? echo "test git";
+echo "hello";
+?>
