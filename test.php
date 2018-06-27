@@ -11,5 +11,5 @@ echo "test open in same";
 
 echo "asdasdasdasdasd asdasdasd";
 echo "new line";
-
+echo "newline";
 ?>
