@@ -1,0 +1,4 @@
+<?
+echo "fo";
+
+echo "menufile";?>
