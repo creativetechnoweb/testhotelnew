@@ -5,7 +5,7 @@ echo "test git";
 
 
 echo "hello";
-
+echo 'added line in ubantu';
 
 echo "test open in same";
 
