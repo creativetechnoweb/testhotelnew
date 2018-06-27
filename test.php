@@ -3,7 +3,7 @@ echo "edit by ashish";
 
 echo "test git";
 
-
+echo "test new line";
 echo "hello";
 echo 'added line in ubantu';
 
