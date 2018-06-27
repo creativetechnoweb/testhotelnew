@@ -1,5 +1,4 @@
 <? 
-echo "edit by ashish";
 echo 'edit by ashish';
 echo 'test again';
 echo 'test git';
