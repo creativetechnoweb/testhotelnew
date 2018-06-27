@@ -17,4 +17,5 @@ echo 'new line';
 echo 'newline';
 echo 'newline again';
 echo "test again asdas";
+echo "asdasd";
 ?>
